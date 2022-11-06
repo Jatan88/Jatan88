@@ -5,7 +5,7 @@
 - 📫 E-mail: shahjatan88@gmail.com
 
 
-[![@jatan88's Holopin board](https://holopin.io/api/user/board?user=jatan88)](https://holopin.io/@jatan88)
+[![@jatan88's Holopin board](https://holopin.me/jatan88)](https://holopin.io/@jatan88)
 
 <!---
 Jatan88/Jatan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
