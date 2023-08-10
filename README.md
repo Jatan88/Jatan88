@@ -23,6 +23,8 @@
 
 [![Jatan88's GitHub | Stats](https://stats.quine.sh/Jatan88/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jatan88)
 
+[![Jatan88's GitHub | Topics](https://stats.quine.sh/Jatan88/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jatan88)
+
 
 
 [![@jatan88's Holopin board](https://holopin.me/jatan88)](https://holopin.io/@jatan88)
