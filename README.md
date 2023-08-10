@@ -30,6 +30,9 @@
 
 [![@jatan88's Holopin board](https://holopin.me/jatan88)](https://holopin.io/@jatan88)
 
+
+[![Jatan88's GitHub | Stats](https://stats.quine.sh/Jatan88/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jatan88)
+
 <!---
 Jatan88/Jatan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
