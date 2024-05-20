@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatan88&label=Profile%20views&color=0e75b6&style=flat" alt="jatan88" /> </p>
 
 
-- 🌱 I’m currently learning **DSA, System Design, AWS**
+- 🌱 I’m currently learning **DSA and System Design**
 
-- 💬 Ask me about **JavaScript, NodeJS, React, C++, Java**
+- 💬 Ask me about **Node.js, Java, Spring Boot, Docker, Kafka**
 
 - 📫 How to reach me **shahjatan88@gmail.com**
 
